@@ -1,7 +1,8 @@
 [![Reference](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
 
 ## Setup
-`npm install react-icons`
+1. Install extension `Tailwind CSS IntelliSense` in VS Code
+2. Terminal `npm install react-icons`
 
 `npm run dev`
 
