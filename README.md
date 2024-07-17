@@ -4,7 +4,8 @@
 1. Install extensions in VS Code
   - Tailwind CSS IntelliSense
   - ES7+ React/Redux/React-Native snippets
-2. Terminal `npm install react-icons`
+2. `npm install react-icons`
+3. `npm install framer-motion`
 
 `npm run dev`
 
