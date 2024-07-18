@@ -1,4 +1,4 @@
-[![Reference](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+[Reference](https://youtu.be/sUKptmUVIBM)
 
 ## Setup
 1. Install extensions in VS Code
@@ -6,6 +6,7 @@
   - ES7+ React/Redux/React-Native snippets
 2. `npm install react-icons`
 3. `npm install framer-motion`
+4. `npm install clsx`
 
 `npm run dev`
 
