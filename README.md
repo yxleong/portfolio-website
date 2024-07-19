@@ -6,9 +6,10 @@
   - ES7+ React/Redux/React-Native snippets
 2. `npm install react-icons`
 3. `npm install framer-motion`
-4. `npm install clsx`
-5. `npm install react-intersection-observer`
-6. `npm install react-vertical-timeline-component`
+4. `npm i clsx`
+5. `npm i react-intersection-observer`
+6. `npm i react-vertical-timeline-component`
+7. `npm i --save-dev @types/react-vertical-timeline-component`
 
 `npm run dev`
 
