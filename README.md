@@ -8,8 +8,8 @@
 3. `npm install framer-motion`
 4. `npm i clsx`
 5. `npm i react-intersection-observer`
-6. `npm i react-vertical-timeline-component`
-7. `npm i --save-dev @types/react-vertical-timeline-component`
+6. `npm i react-vertical-timeline-component` `npm i --save-dev @types/react-vertical-timeline-component`
+7. 
 
 `npm run dev`
 
