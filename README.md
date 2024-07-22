@@ -14,5 +14,7 @@
     - Add RESEND_API_KEY environment variable in .env.local
     - In the send-email.ts action file, change the "to" email to your own email
 8. `npm i @react-email/components @react-email/tailwind`
+9. npm i react-hot-toast
+    - https://react-hot-toast.com/
 
 `npm run dev`
