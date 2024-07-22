@@ -2,8 +2,9 @@
 
 ## Setup
 1. Install extensions in VS Code
-  - Tailwind CSS IntelliSense
-  - ES7+ React/Redux/React-Native snippets
+    - Tailwind CSS IntelliSense
+    - ES7+ React/Redux/React-Native snippets
+2. `npm install next`
 2. `npm install react-icons`
 3. `npm install framer-motion`
 4. `npm i clsx`
