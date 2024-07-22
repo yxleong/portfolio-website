@@ -9,7 +9,7 @@
 4. `npm i clsx`
 5. `npm i react-intersection-observer`
 6. `npm i react-vertical-timeline-component` `npm i --save-dev @types/react-vertical-timeline-component`
-7. 
+7. https://resend.com/ `npm i resend@0.16.0`
 
 `npm run dev`
 
