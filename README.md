@@ -9,9 +9,9 @@
 4. `npm i clsx`
 5. `npm i react-intersection-observer`
 6. `npm i react-vertical-timeline-component` `npm i --save-dev @types/react-vertical-timeline-component`
-7. https://resend.com/ `npm i resend@0.16.0`
+7. `npm i resend@0.16.0`
+    - https://resend.com/
+    - Add RESEND_API_KEY environment variable in .env.local
+    - In the send-email.ts action file, change the "to" email to your own email
 
 `npm run dev`
-
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
