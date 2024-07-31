@@ -6,8 +6,13 @@
     - ES7+ React/Redux/React-Native snippets
 2. `npm install next`
 3. Change to own info
+    - components/about.tsx: About me content
+    - components/contact.tsx: 1.direct 2.mailto
+    - components/footer.tsx: copyright name
+    - components/inro.tsx: 1.Image src 2.Image alt 3.Hello 4.Linkedin link 5.GitHub link
+    - lib/data.ts: 1.experience 2.project
     - public/CV.pdf
-    - components/inro.tsx: 1.Image src 2.Image alt 3.Linkedin 4. GitHub
+    - 
 5. Package installed
    - `npm install react-icons`
    - `npm install framer-motion`
