@@ -9,6 +9,7 @@ import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
+import profileImg from "@/public/pic.png";
 
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
@@ -32,7 +33,7 @@ export default function Intro() {
           >
             <Image
               // src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=368&h=368&q=100"
-              src="https://github.com/yxleong/portfolio-website/blob/master/public/pic.jpg"
+              src="https://raw.githubusercontent.com/yxleong/portfolio-website/master/public/pic.jpg?raw=true"
               alt="yxleong portrait"
               width="192"
               height="192"
