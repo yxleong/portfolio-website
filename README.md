@@ -19,7 +19,8 @@
     - https://resend.com/
 5. Import from Git Repository to deploy this Project
     - https://vercel.com/
-6. Package installed
+
+## Package installed
     - `npm install react-icons`
     - `npm install framer-motion`
     - `npm i clsx`
