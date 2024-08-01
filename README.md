@@ -6,9 +6,10 @@
     - ES7+ React/Redux/React-Native snippets
 2. `npm install next`
 3. Change to own info
+    - actions/sendEmail.ts: to @gmail.com
     - app/layout.tsx: | Personal
     - components/about.tsx: About me content
-    - components/contact.tsx: 1.direct 2.mailto 3.className="scroll-mt-28...
+    - components/contact.tsx: 1.direct 2.mailto
     - components/footer.tsx: copyright name
     - components/inro.tsx: 1.Image src 2.Image alt 3.Hello 4.Linkedin link 5.GitHub link
     - lib/data.ts: 1.experience 2.project 3.skill
