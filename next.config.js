@@ -8,7 +8,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "dl.dropboxusercontent.com",
+        hostname: "raw.githubusercontent.com",
       },
     ],
   },
