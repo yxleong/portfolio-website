@@ -6,28 +6,28 @@
     - ES7+ React/Redux/React-Native snippets
 2. `npm install next`
 3. Change to own info
-    - actions/sendEmail.ts: to @gmail.com
-    - app/layout.tsx: | Personal
+    - In the send-email.ts action file, change the "to" email to your own email
+    - app/layout.tsx: | Personal..
     - components/about.tsx: About me content
     - components/contact.tsx: 1.direct 2.mailto
     - components/footer.tsx: copyright name
-    - components/inro.tsx: 1.Image src 2.Image alt 3.Hello 4.Linkedin link 5.GitHub link
+    - components/inro.tsx: 1.Image src 2.Image alt 3.Hello 4.CVname 5.Linkedin link 6.GitHub link
     - lib/data.ts: 1.experience 2.project 3.skill
+    - public: resumePDF & projectIMG
     - next.config.js: add Image protocol
-    - public/CV.pdf
-    - 
-5. Package installed
-   - `npm install react-icons`
-   - `npm install framer-motion`
-   - `npm i clsx`
-   - `npm i react-intersection-observer`
-   - `npm i react-vertical-timeline-component` `npm i --save-dev @types/react-vertical-timeline-component`
-   - `npm i resend@0.16.0`
-        - https://resend.com/
-        - Add RESEND_API_KEY environment variable in .env.local
-        - In the send-email.ts action file, change the "to" email to your own email
-   - `npm i @react-email/components @react-email/tailwind`
-   - npm i react-hot-toast
+4. Add RESEND_API_KEY environment variable in `.env.local`
+    - https://resend.com/
+5. Import from Git Repository to deploy this Project
+    - https://vercel.com/
+6. Package installed
+    - `npm install react-icons`
+    - `npm install framer-motion`
+    - `npm i clsx`
+    - `npm i react-intersection-observer`
+    - `npm i react-vertical-timeline-component` `npm i --save-dev @types/react-vertical-timeline-component`
+    - `npm i resend@0.16.0`
+    - `npm i @react-email/components @react-email/tailwind`
+    - `npm i react-hot-toast`
         - https://react-hot-toast.com/
 
 `npm run dev`
