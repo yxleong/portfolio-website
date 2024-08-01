@@ -10,7 +10,8 @@
     - components/contact.tsx: 1.direct 2.mailto
     - components/footer.tsx: copyright name
     - components/inro.tsx: 1.Image src 2.Image alt 3.Hello 4.Linkedin link 5.GitHub link
-    - lib/data.ts: 1.experience 2.project
+    - next.config.js: add Image protocol
+    - lib/data.ts: 1.experience 2.project 3.skill
     - public/CV.pdf
     - 
 5. Package installed
