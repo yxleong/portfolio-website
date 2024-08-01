@@ -6,6 +6,7 @@
     - ES7+ React/Redux/React-Native snippets
 2. `npm install next`
 3. Change to own info
+    - app/layout.tsx: | Personal
     - components/about.tsx: About me content
     - components/contact.tsx: 1.direct 2.mailto
     - components/footer.tsx: copyright name

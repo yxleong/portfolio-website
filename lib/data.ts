@@ -8,6 +8,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import roadcrossingImg from "@/public/roadcrossing.png";
 import ultimateshowdownImg from "@/public/ultimateshowdown.png";
 import excelshiftschedulerImg from "@/public/excelshiftscheduler.png";
+import excelshiftschedulerImg from "@/public/excelshiftscheduler.png";
 
 export const links = [
   {
