@@ -1,5 +1,3 @@
-[Reference](https://youtu.be/sUKptmUVIBM)
-
 ## Setup
 1. Install extensions in VS Code
     - Tailwind CSS IntelliSense
