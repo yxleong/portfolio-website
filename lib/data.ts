@@ -65,7 +65,7 @@ export const experiencesData = [
     title: "Cybersecurity Testing Intern",
     location: "New Taipei City, Taiwan",
     description:
-      "Assisted in network security assessments using Nmap and Nessus, identifying vulnerabilities and potential risks.",
+      "I assisted in network security assessments, IoT security testing, and vulnerability scanning, while also contributing to the development of an automated report generation system using Dradis by creating templates, and also testing DUT such as critical telecommunications infrastructure and video surveillance systems, ensuring compliance with industry standards like NIST, FIRST, and CNS 16120.",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - present",
   },
