@@ -49,9 +49,9 @@ export default function About() {
           C/C++, Python and Java
         </span>
         . I am also familiar with Javascript, React, Git and Linux. I am always looking to
-        learn new technologies. I am currently looking for an{" "}
-        <span className="font-medium">internship position</span> in IT
-        support.
+        learn new technologies. I am currently looking for a{" "}
+        <span className="font-medium">full-time position</span> as a software
+        engineer.
       </p>
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
