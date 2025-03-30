@@ -61,6 +61,19 @@ export const experiencesData = [
     icon: React.createElement(LuGraduationCap),
     date: "2021 - present",
   },
+  {
+    title: "Cybersecurity Testing Intern",
+    location: "New Taipei City, Taiwan",
+    description:
+      "- Assisted in network security assessments using Nmap and Nessus, identifying vulnerabilities and potential risks.
+      \n- Conducted IoT security testing, analyzing attack vectors and exploiting weaknesses in a controlled test environment.
+      \n- Performed automated vulnerability scanning and malware detection using tools like ThreatSonar, Acunetix, and ClamAV.
+      \n- Contributed to critical telecom infrastructure security testing, adhering to standards such as NIST SP 1800-14 and FIRST, and evaluating components like routers, switches, and firewalls for compliance with security criteria.
+      \n- Assisted in video surveillance system security testing, following CNS 16120 standards for IP cameras and surveillance systems, focusing on security measures such as authentication and privacy protection.
+      \n- Utilized Dradis to assist in the creation of automated security reports, improving documentation efficiency and ensuring standardized formats for all security assessments.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2021",
+  },
   // {
   //   title: "Graduated bootcamp",
   //   location: "Miami, FL",
