@@ -2,6 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
+import { MdSecurity } from "react-icons/md";
 // import corpcommentImg from "@/public/corpcomment.png";
 // import rmtdevImg from "@/public/rmtdev.png";
 // import wordanalyticsImg from "@/public/wordanalytics.png";
@@ -66,7 +67,7 @@ export const experiencesData = [
     location: "New Taipei City, Taiwan",
     description:
       "I assisted in network security assessments, IoT security testing, and vulnerability scanning, while also contributing to the development of an automated report generation system using Dradis by creating templates, and also testing DUT such as critical telecommunications infrastructure and video surveillance systems, ensuring compliance with industry standards like NIST, FIRST, and CNS 16120.",
-    icon: React.createElement(CgWorkAlt),
+    icon: React.createElement(MdSecurity),
     date: "2024 - present",
   },
   // {
