@@ -72,7 +72,7 @@ export const experiencesData = [
       \n- Assisted in video surveillance system security testing, following CNS 16120 standards for IP cameras and surveillance systems, focusing on security measures such as authentication and privacy protection.
       \n- Utilized Dradis to assist in the creation of automated security reports, improving documentation efficiency and ensuring standardized formats for all security assessments.",
     icon: React.createElement(CgWorkAlt),
-    date: "2021",
+    date: "2024 - present",
   },
   // {
   //   title: "Graduated bootcamp",
