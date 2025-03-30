@@ -6,6 +6,7 @@
 3. Change to own info
     - In the send-email.ts action file, change the "to" email to your own email
     - app/layout.tsx: | Personal..
+    - app/favicon.ico
     - components/about.tsx: About me content
     - components/contact.tsx: 1.direct 2.mailto
     - components/footer.tsx: copyright name
