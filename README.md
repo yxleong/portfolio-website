@@ -21,7 +21,7 @@
 
 ## Package installed
 - `npm install react-icons`
-- `npm install framer-motion`
+- `npm install framer-motion`(Install `Motion` for React 19 version)
 - `npm i clsx`
 - `npm i react-intersection-observer`
 - `npm i react-vertical-timeline-component` `npm i --save-dev @types/react-vertical-timeline-component`
