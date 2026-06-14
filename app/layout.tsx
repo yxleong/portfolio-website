@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "YXLeong | Personal Portfolio",
-  description: "Software Engineer specializing in backend development with Go. Experience in game industry systems, cybersecurity testing, and building scalable and reliable backend services.",
+  description: "Software Engineer focused on backend systems using Go. Experience in production systems, cybersecurity testing, and building scalable and reliable services.",
 };
 
 export default function RootLayout({

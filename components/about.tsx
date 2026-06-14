@@ -18,31 +18,29 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-      I am a Software Engineer focused on backend development with{" "}
-      <span className="font-medium">Go (Golang)</span>, with
-      professional experience in the gaming industry. I have worked on developing and maintaining
-      backend systems, debugging production issues, and collaborating with cross-functional teams
-      in production environments.
+      I am a Software Engineer focused on backend system development with{" "}
+      <span className="font-medium">Go (Golang)</span>. I have 
+      experience working in production environments, where I contributed to backend services, 
+      system maintenance, and improving system reliability.
       </p>
 
       <p className="mb-3">
       I also have experience in{" "}
-      <span className="font-medium">cybersecurity testing</span>, including vulnerability scanning, IoT security
-      testing, and system-level security validation. This has strengthened my understanding of
-      secure software development and system reliability.
+      <span className="font-medium">cybersecurity testing</span>, including vulnerability scanning, IoT security 
+      testing, and system-level validation, which helps me build more secure and robust systems.
       </p>
 
       <p className="mb-3">
       My core stack includes{" "}
       <span className="font-medium">
       Go, backend systems, APIs, Git, and Linux
-      </span>. I am also familiar with
-      software engineering practices such as testing, debugging, and version control. I enjoy solving
-      complex technical problems and improving system performance and reliability.
+      </span>. I focus on building reliable 
+      services, debugging production issues, and improving system performance and stability.
       </p>
 
       <p>
-      <span className="italic">Outside of work</span>, I enjoy learning new technologies and exploring backend system design, software architecture, distributed systems, and security practices.
+      <span className="italic">Outside of work</span>, I enjoy learning about backend system design, software architecture, 
+      distributed systems, and security practices.
       </p>
     </motion.section>
   );

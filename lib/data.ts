@@ -35,30 +35,30 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
-    {
-      title: "Software Developer",
-      location: "TaDa Gaming Limited",
-      description:
-        "Worked on backend development and system maintenance for gaming services. Handled bug fixing, feature implementation, and system stability improvements in production environment.",
-      icon: React.createElement(CgWorkAlt),
-      date: "2026 - present",
-    },
-    {
-      title: "Software Developer",
-      location: "International Games System Co., Ltd.",
-      description:
-        "Developed and maintained backend systems for game-related services using Go. Responsible for debugging production issues, implementing new features, and improving system stability. Collaborated with cross-functional teams to support the full software development lifecycle including testing, version control, and deployment.",
-      icon: React.createElement(CgWorkAlt),
-      date: "2025 - 2026",
-    },
-    {
-      title: "Cybersecurity Testing Intern",
-      location: "Onward Security, a DEKRA company",
-      description:
-        "Conducted vulnerability scanning, IoT security testing, and network security assessments. Developed Dradis reporting templates to support automated security report generation workflows. Performed structured testing on DUT systems including telecommunications infrastructure and surveillance systems, applying industry standards such as NIST, FIRST, and CNS 16120.",
-      icon: React.createElement(MdSecurity),
-      date: "2024 - 2025",
-    },
+  {
+    title: "Software Developer",
+    location: "TaDa Gaming Limited",
+    description:
+      "Worked on backend and platform system development and maintenance for production services. Handled bug fixing, feature implementation, and system stability improvements in a live environment.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2026 - present",
+  },
+  {
+    title: "Software Developer",
+    location: "International Games System Co., Ltd.",
+    description:
+      "Developed and maintained backend services using Go in production systems. Responsible for debugging production issues, implementing features, and improving system reliability. Collaborated across the full development lifecycle including testing, version control, and deployment.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2025 - 2026",
+  },
+  {
+    title: "Cybersecurity Testing Intern",
+    location: "Onward Security, a DEKRA company",
+    description:
+      "Conducted vulnerability scanning, IoT security testing, and network security assessments. Developed Dradis reporting templates to support automated security report generation workflows. Performed structured testing on DUT systems including telecommunications infrastructure and surveillance systems, applying industry standards such as NIST, FIRST, and CNS 16120.",
+    icon: React.createElement(MdSecurity),
+    date: "2024 - 2025",
+  },
   {
     title: "National Taiwan University of Science and Technology",
     location: "Taipei, Taiwan",
@@ -112,20 +112,17 @@ export const projectsData = [
 export const skillsData = [
   "Go (Golang)",
   "Backend Development",
-  "Software Engineering",
-  "RESTful APIs",
+  "API Development",
   "System Design",
+  "Distributed Systems",
+
   "Git",
+  "Linux",
   "Debugging",
   "Problem Solving",
-  "Linux",
 
-  "Cybersecurity",
-  "Security Testing",
+  "Cybersecurity Testing",
   "Vulnerability Assessment",
   "Network Security",
-  "IoT Security",
-
-  "Game Backend Development",
-  "API Development"
+  "IoT Security"
 ] as const;

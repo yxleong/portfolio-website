@@ -65,7 +65,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hi, I'm Yah Xuan.</span> I'm a{" "}
         <span className="font-bold">Software Engineer</span> focused on{" "}
-        <span className="underline">backend systems with Go</span>. I have experience in game industry software development and cybersecurity testing, building reliable and secure systems.
+        <span className="underline">backend systems with Go</span>. I build reliable production systems and have experience in cybersecurity testing and system reliability engineering.
       </motion.h1>
 
       <motion.div
